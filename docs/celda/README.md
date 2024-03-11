@@ -1,29 +1,33 @@
 <img src="../../images/DALL·E-2024-03-11-22.22.25.webp" width="40%" align=right border=1>
+<a href="../../README.md"><img src="https://img.shields.io/badge/-Tabla_de_contenidos-000?style=flat&logo=Emlakjet&logoColor=red"></a>
 
 # La celda
 
 ## ¿Por qué?
 
-Al momento de organizar la información, contamos con diversas herramientas a nuestra disposición, cada una adaptada a diferentes tipos de tareas y objetivos. Cuando nos enfrentamos a la necesidad de organizar información compleja que requiere análisis, comparación o cálculos, buscar una representación gráfica mediante un dibujo o un largo párrafo explicativo puede no ser la opción más eficiente o efectiva. Aquí es donde las hojas de cálculo emergen como una solución poderosa, permitiéndonos estructurar y manipular datos de manera precisa y flexible.
-
-La base de esta representación de la información es la celda, el componente fundamental que nos permite no solo almacenar datos de forma organizada sino también realizar operaciones complejas sobre ellos.
+|Contexto|Necesidad|
+|-|-|
+|En una hoja de cálculo, todo comienza con la celda porque es la unidad básica de almacenamiento de datos. La eficacia en la manipulación de celdas es fundamental para el manejo eficiente de la hoja de cálculo|Se necesita un punto de partida concreto para ingresar y manipular datos, realizar cálculos y analizar información.|
 
 ## ¿Qué?
 
-- Una celda es el cruce de una fila y una columna en una hoja de cálculo, funcionando como el contenedor básico para datos e información. 
-- Cada celda puede contener datos en diferentes formatos, como texto, números, fechas, o fórmulas que realizan cálculos utilizando los datos de otras celdas.
-- La identificación de cada celda se da mediante una referencia única, compuesta por la letra de la columna y el número de la fila en que se encuentra, lo cual es esencial para la creación de fórmulas y la manipulación de datos.
+- **Definición**: Una celda es el cruce de una fila y una columna en una hoja de cálculo y puede contener datos, como texto, número o fórmula.
+- **Características**: Cada celda está identificada por una dirección única (por ejemplo, A1, B2), lo que permite referenciarla fácilmente.
 
 ## ¿Para qué?
 
-|||
-|-|-|
-**Organizar datos**|Las celdas permiten la entrada y organización sistemática de datos, lo cual es fundamental para cualquier análisis posterior.
-**Realizar cálculos**|A través de las fórmulas y funciones, las celdas se utilizan para ejecutar operaciones matemáticas, desde simples sumas hasta complejas estadísticas.
-**Analizar tendencias**|Las celdas, al contener datos históricos o proyectados, son la base para realizar análisis de tendencias y predicciones.
-**Automatizar tareas**|Mediante el uso de fórmulas y macros, las celdas ayudan a automatizar tareas repetitivas, aumentando la eficiencia y precisión.
-**Facilitar la toma de decisiones**|La información organizada y analizada en las celdas proporciona insights valiosos que apoyan la toma de decisiones informadas.
+- Almacenar datos individuales.
+- Realizar cálculos individuales.
+- Servir como referencia para rangos, funciones y fórmulas.
+- Aplicar formatos específicos para mejorar la visualización de la información.
 
 ## ¿Cómo?
+
+- Introducción de datos en la celda.
+- Aplicación de fórmulas básicas.
+- Uso de funciones de autorelleno.
+- Modificación del formato de la celda para personalizar la presentación de los datos.
+
+### *CdU*
 
 - [Ingreso de fechas](https://1drv.ms/x/s!AnIJHRHgFpG-lkq2IG6Ao_K7lzTY?e=HIdPcT)
