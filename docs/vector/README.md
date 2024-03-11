@@ -1,4 +1,4 @@
-<img src="../../images/DALL·E-2024-03-11-22.22.25.webp" width="40%" align=right border=1>
+<img src="../../images/DALL·E-2024-03-11-22.22.25.webp" width="20%" align=right border=1>
 <a href="../../README.md"><img src="https://img.shields.io/badge/-Tabla_de_contenidos-000?style=flat&logo=Emlakjet&logoColor=red"></a>
 
 # El vector
