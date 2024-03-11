@@ -14,10 +14,10 @@ A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándo
 
 ## Itinerario
 
-- [La celda](/docs/celda/README.md)
-- [El rango](/docs/rango/README.md)
+- [La celda](docs/celda/README.md)
+- [El rango](docs/rango/README.md)
 - [El vector](docs/vector/README.md)
-- La tabla
+- [La tabla](docs/tabla/README.md)
 - La tabla dinámica
 - La hoja
 - Las hojas
