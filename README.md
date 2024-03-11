@@ -1,6 +1,10 @@
-<img src="images/DALL·E-2024-03-11-22.22.25.webp" width="40%" align=right border=1>
-
 # Pequeñas anécdotas sobre las hojas de cálculo
+
+<div align=center>
+
+<img src="images/DALL·E-2024-03-11-21.48.01.webp" width="60%" border=1>
+
+</div>
 
 ## Itinerario
 
@@ -13,5 +17,8 @@
 - Las hojas
 - Los gráficos
 - Los libros
+- El análisis
+- La automatización
+- El exterior
 
 [Carpeta de documentos](https://1drv.ms/f/s!AnIJHRHgFpG-lkytF3Qq4lMkKsqD?e=h6aQ7Y)
