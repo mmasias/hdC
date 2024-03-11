@@ -1,4 +1,4 @@
-<img src="../../images/DALL·E%202024-03-11%2021.48.01.webp" width="40%" align=right border=1>
+<img src="../../images/DALL·E-2024-03-11-22.22.25.webp" width="40%" align=right border=1>
 
 # La celda
 
