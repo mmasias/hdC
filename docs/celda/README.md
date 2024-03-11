@@ -4,9 +4,9 @@
 
 ## ¿Por qué?
 
-Las hojas de cálculo son una herramienta indispensable en el ámbito empresarial, académico y personal para la organización de datos, análisis numérico y la toma de decisiones basada en información. La unidad fundamental de estas hojas es la celda, punto de partida para cualquier actividad de análisis o registro.
+Al momento de organizar la información, contamos con diversas herramientas a nuestra disposición, cada una adaptada a diferentes tipos de tareas y objetivos. Cuando nos enfrentamos a la necesidad de organizar información compleja que requiere análisis, comparación o cálculos, buscar una representación gráfica mediante un dibujo o un largo párrafo explicativo puede no ser la opción más eficiente o efectiva. Aquí es donde las hojas de cálculo emergen como una solución poderosa, permitiéndonos estructurar y manipular datos de manera precisa y flexible.
 
-A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándose en lograr tareas específicas sin detenernos en comprender los elementos básicos. Entender el concepto de celda, más allá de su funcionalidad práctica, es crucial para desbloquear el potencial completo de las hojas de cálculo, permitiendo avanzar desde tareas básicas hacia análisis más complejos y personalizados.
+La base de esta representación de la información es la celda, el componente fundamental que nos permite no solo almacenar datos de forma organizada sino también realizar operaciones complejas sobre ellos.
 
 ## ¿Qué?
 
