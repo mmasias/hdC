@@ -14,7 +14,9 @@ A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándo
 
 ## Itinerario
 
-<table border=1>
+<div align=center>
+
+<table>
     <tr>
         <td width="50%" valign=top>
         
@@ -36,5 +38,7 @@ A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándo
         </td>
     </tr>
 </table>
+
+</div>
 
 [Carpeta de documentos](https://1drv.ms/f/s!AnIJHRHgFpG-lkytF3Qq4lMkKsqD?e=h6aQ7Y)
