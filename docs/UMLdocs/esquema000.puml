@@ -1,16 +1,19 @@
 hide empty members
 
-package hoja{
-    interface comportamiento
-    rango *---- celda
-    rango <|-- vector 
-    vector <|-- fila
-    vector <|-- columna
-    tabla *-- rango
-    tablaDinamica *-- tabla
-    tablaDinamica .l. comportamiento
+package Hoja {
+    interface Comportamiento
+    Rango *-d--- Celda
+    Rango <|-- Vector 
+    Vector <|-- Fila
+    Vector <|-- Columna
+    Tabla *-d- Rango
+    TablaDinámica *-d- Tabla
+    TablaDinámica -r-|> Comportamiento
+    Grafico <.l. Rango
+    Grafico <.. Tabla
+    Grafico <.. TablaDinámica
 }
 
-class celda{
-    direccion
+class Celda{
+    dirección
 }
