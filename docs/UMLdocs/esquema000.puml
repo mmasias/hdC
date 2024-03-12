@@ -6,12 +6,12 @@ package Hoja {
     Rango <|-- Vector 
     Vector <|-- Fila
     Vector <|-- Columna
-    Tabla *-d- Rango
+    Tabla o-d- Rango
     TablaDinámica *-d- Tabla
     TablaDinámica -r-|> Comportamiento
-    Grafico <.l. Rango
-    Grafico <.. Tabla
-    Grafico <.. TablaDinámica
+    Gráfico .l.> Rango
+    Gráfico ..> Tabla
+    Gráfico ..> TablaDinámica
 }
 
 class Celda{
