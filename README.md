@@ -16,7 +16,7 @@ A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándo
 
 <div align=center>
 
-<table>
+<table border=0>
     <tr>
         <td valign=top>
         
