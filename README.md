@@ -2,7 +2,7 @@
 
 <div align=center>
 
-|<img src="images/DALL·E-2024-03-11-21.48.01.webp" width="40%" border=1>|
+|<img src="images/DALL·E-2024-03-11-21.48.01.webp" width="10%" border=1>|
 |-|
 ||
 
