@@ -14,6 +14,10 @@ A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándo
 
 ## Itinerario
 
+<table border=1>
+    <tr>
+        <td width="70%" valign=top>
+        
 - [La celda](docs/celda/README.md)
 - [El rango](docs/rango/README.md)
 - [El vector](docs/vector/README.md)
@@ -26,5 +30,11 @@ A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándo
 - El análisis
 - La automatización
 - El exterior
+        </td>
+        <td width="30%">
+            <img src="images/modelosUML/docs/UMLdocs/esquema000.svg" border=1 align=right>        
+        </td>
+    </tr>
+</table>
 
 [Carpeta de documentos](https://1drv.ms/f/s!AnIJHRHgFpG-lkytF3Qq4lMkKsqD?e=h6aQ7Y)

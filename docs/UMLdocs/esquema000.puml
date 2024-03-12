@@ -1,0 +1,16 @@
+hide empty members
+
+package hoja{
+    interface comportamiento
+    rango *---- celda
+    rango <|-- vector 
+    vector <|-- fila
+    vector <|-- columna
+    tabla *-- rango
+    tablaDinamica *-- tabla
+    tablaDinamica .l. comportamiento
+}
+
+class celda{
+    direccion
+}
