@@ -1,18 +1,22 @@
 hide empty members
 
-package Hoja {
-    interface Comportamiento
-    Rango *-d--- Celda
-    Rango <|-- Vector 
-    Vector <|-- Fila
-    Vector <|-- Columna
-    Tabla o-d- Rango
-    TablaDinámica *-d- Tabla
-    TablaDinámica -r-|> Comportamiento
-    Gráfico .l.> Rango
-    Gráfico ..> Tabla
-    Gráfico ..> TablaDinámica
+package Libro{
+
+    package Hoja {
+        interface Comportamiento
+        Rango *-d- Celda
+        Rango <|-r- Vector 
+        Vector <|-- Fila
+        Vector <|-- Columna
+        TablaDinámica *-d- Tabla
+        Tabla o-d- Rango
+        TablaDinámica -r-|> Comportamiento
+        Gráfico ...> Rango
+        Gráfico .l..> Tabla
+        Gráfico .u..> TablaDinámica
+    }
 }
+
 
 class Celda{
     dirección

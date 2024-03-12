@@ -2,7 +2,7 @@
 
 <div align=center>
 
-|<img src="images/DALL·E-2024-03-11-21.48.01.webp" width="60%" border=1>|
+|<img src="images/DALL·E-2024-03-11-21.48.01.webp" width="40%" border=1>|
 |-|
 ||
 
@@ -24,9 +24,9 @@ A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándo
 - [El rango](docs/rango/README.md)
 - [El vector](docs/vector/README.md)
 - [La tabla](docs/tabla/README.md)
-- La tabla dinámica
-- La hoja
-- Las hojas
+- [La tabla dinámica](docs/tablaDinamica/README.md)
+- [La hoja](/docs/hoja/README.md)
+- [El libro](/docs/libro/README.md)
 - Los gráficos
 - Los libros
 - El análisis
