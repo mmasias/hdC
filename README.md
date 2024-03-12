@@ -16,7 +16,7 @@ A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándo
 
 <table border=1>
     <tr>
-        <td width="70%" valign=top>
+        <td width="50%" valign=top>
         
 - [La celda](docs/celda/README.md)
 - [El rango](docs/rango/README.md)
@@ -31,8 +31,8 @@ A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándo
 - La automatización
 - El exterior
         </td>
-        <td width="30%">
-            <img src="images/modelosUML/docs/UMLdocs/esquema000.svg" border=1 align=right>        
+        <td width="50%">
+            <img src="images/modelosUML/docs/UMLdocs/esquema000.svg">
         </td>
     </tr>
 </table>
