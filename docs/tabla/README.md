@@ -32,4 +32,4 @@
 
 ### *CdU*
 
-- 
+- [Titulos & Formato condicional](https://1drv.ms/x/s!AnIJHRHgFpG-llVMOWH1tyAfNumW?e=1UC3Jb)
