@@ -32,4 +32,5 @@
 
 ### *CdU*
 
+- [Fórmulas](https://1drv.ms/x/s!AnIJHRHgFpG-lleE5RLkvOENOScH?e=0EAfnZ)
 - [Titulos & Formato condicional](https://1drv.ms/x/s!AnIJHRHgFpG-llVMOWH1tyAfNumW?e=1UC3Jb)
