@@ -32,4 +32,6 @@
 
 ### *CdU*
 
-- 
+- [Fórmulas](https://1drv.ms/x/s!AnIJHRHgFpG-lleE5RLkvOENOScH?e=0EAfnZ)
+- [Titulos & Formato condicional](https://1drv.ms/x/s!AnIJHRHgFpG-llVMOWH1tyAfNumW?e=1UC3Jb)
+- [Relleno rápido](https://1drv.ms/x/s!AnIJHRHgFpG-lllcdRQn_kx6x6tf?e=qR2Bnb)

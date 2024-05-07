@@ -29,3 +29,5 @@
 - Utilización de rangos para la creación de gráficos y análisis de datos.
 
 ### *CdU*
+
+- [Rangos con nombres](https://1drv.ms/x/s!AnIJHRHgFpG-lk1wxES0Hp7yq9WB?e=OsH6E3)
