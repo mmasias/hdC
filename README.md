@@ -27,11 +27,11 @@ A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándo
 - [La tabla dinámica](docs/tablaDinamica/README.md)
 - [La hoja](/docs/hoja/README.md)
 - [El libro](/docs/libro/README.md)
-- Los gráficos
-- Los libros
-- El análisis
-- La automatización
-- El exterior
+- [Los gráficos](/docs/graficos/README.md)
+- [Los libros](/docs/libros/README.md)
+- [El análisis](/docs/analisis/README.md)
+- [La automatización](/docs/automatizacion/README.md)
+- [El exterior](docs/elExterior/README.md)
         </td>
         <td>
 
