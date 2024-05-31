@@ -33,7 +33,9 @@
 ||||
 |-|-|-|
 Ingreso de fechas|[Excel](https://1drv.ms/x/s!AnIJHRHgFpG-lkq2IG6Ao_K7lzTY?e=HIdPcT)
-Ingreso & validación de datos|[Excel](https://1drv.ms/x/s!AnIJHRHgFpG-lxrQ8pXUpZD7gB9z)
 Formato condicional|[Excel](https://1drv.ms/x/s!AnIJHRHgFpG-l2E_F6Tv64yB4kGN?e=lWMPdT)
+Ingreso & validación de datos|[Excel](https://1drv.ms/x/s!AnIJHRHgFpG-lxrQ8pXUpZD7gB9z)
+Fórmulas|[Excel](https://1drv.ms/x/s!AnIJHRHgFpG-l2WtF3Qq4lMkKsqD)
+Manejo de errores|[Excel]()
 Notas, comentarios y comentarios de hilos|[Excel](https://1drv.ms/x/s!AnIJHRHgFpG-l1_dGJ0g3RWFggAT?e=WXsaVO)
 *Autopercepción*|[Excel](https://1drv.ms/x/s!AnIJHRHgFpG-l2OjjS7dY7I41LN1?e=zgfhuD)

@@ -1,23 +1,27 @@
-hide empty members
+'hide empty members
+'hide circle
 
 package Libro{
 
     package Hoja {
         interface Comportamiento
-        Rango *-d- Celda
-        Rango <|-r- Vector 
+        Rango *-d-- Celda
+        Rango <|-r- Vector
         Vector <|-- Fila
         Vector <|-- Columna
-        TablaDinámica *-d- Tabla
-        Tabla o-d- Rango
+        TablaDinámica *--l-- Tabla
         TablaDinámica -r-|> Comportamiento
+        Tabla o-d- Rango
         Gráfico ...> Rango
         Gráfico .l..> Tabla
         Gráfico .u..> TablaDinámica
+        
+        Celda .r. Fórmula
+        Rango .d. Fórmula
+        
+
+        class Celda as "<i><b>Celda</b></i>" {
+            dirección
+        }
     }
-}
-
-
-class Celda{
-    dirección
 }

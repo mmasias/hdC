@@ -29,4 +29,5 @@ A medida que los proyectos se vuelven más grandes y complejos, realizar tareas 
 
 ### *CdU*
 
-- 
+|||
+Simular botón de opción|[Excel](https://1drv.ms/x/s!AnIJHRHgFpG-l2eDH47saOP50SOC)
