@@ -31,4 +31,4 @@ A medida que los proyectos se vuelven más grandes y complejos, realizar tareas 
 
 ||||
 |-|-|-|
-Simular botón de opción|[Excel](https://1drv.ms/x/s!AnIJHRHgFpG-l2eDH47saOP50SOC)
+Simular botón de opción|[Excel](https://1drv.ms/x/s!AnIJHRHgFpG-l2eDH47saOP50SOC) / [v2](https://1drv.ms/x/s!AnIJHRHgFpG-l2kl08fteuvONO3H?e=es9Klz)
