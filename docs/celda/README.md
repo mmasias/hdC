@@ -30,4 +30,7 @@
 
 ### *CdU*
 
-- [Ingreso de fechas](https://1drv.ms/x/s!AnIJHRHgFpG-lkq2IG6Ao_K7lzTY?e=HIdPcT)
+- [Ingreso de fechas](https://1drv.ms/x/s!AnIJHRHgFpG-lkq2IG6Ao_K7lzTY?e=HIdPcT) 
+- [Ingreso & validación de datos](https://1drv.ms/x/s!AnIJHRHgFpG-lxrQ8pXUpZD7gB9z?e=lTgjSZ&nav=MTVfe0Y0MEQ5ODhCLTQ5QjUtNEM2OS04OTM4LTQzRkI5MTE4MzZDOH0)
+- [Formato condicional](https://1drv.ms/x/s!AnIJHRHgFpG-l2E_F6Tv64yB4kGN?e=lWMPdT)
+- [Notas, comentarios y comentarios de hilos](https://1drv.ms/x/s!AnIJHRHgFpG-l1_dGJ0g3RWFggAT?e=WXsaVO)
