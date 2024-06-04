@@ -42,4 +42,7 @@ A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándo
 
 </div>
 
-[Carpeta de documentos](https://1drv.ms/f/s!AnIJHRHgFpG-lkytF3Qq4lMkKsqD?e=h6aQ7Y)
+## Carpetas de documentos
+
+- [![](https://img.shields.io/badge/-Microsoft_Excel-FFF?style=flat&logo=microsoftexcel&logoColor=black)](https://1drv.ms/f/s!AnIJHRHgFpG-lkytF3Qq4lMkKsqD?e=h6aQ7Y) 
+- [![](https://img.shields.io/badge/-Google_Sheets-FFF?style=flat&logo=googlesheets&logoColor=black)](https://drive.google.com/drive/folders/1YppYGn_WxalVW2SZNx3ATgVkccZur2qZ?usp=sharing)
