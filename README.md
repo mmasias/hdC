@@ -22,6 +22,7 @@ A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándo
         
 - [La celda](docs/celda/README.md)
 - [El rango](docs/rango/README.md)
+- [Las fórmulas](docs/formulas/README.md)
 - [El vector](docs/vector/README.md)
 - [La tabla](docs/tabla/README.md)
 - [La tabla dinámica](docs/tablaDinamica/README.md)
