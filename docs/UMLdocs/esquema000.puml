@@ -16,8 +16,9 @@ package Libro{
         Gráfico .l..> Tabla
         Gráfico .u..> TablaDinámica
         
-        Celda .r. Fórmula
+        Celda .r.. Fórmula
         Rango .d. Fórmula
+        Fórmula o..r.. Función
         
 
         class Celda as "<i><b>Celda</b></i>" {

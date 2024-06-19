@@ -1,19 +1,24 @@
-# Intermedio
+# Itinerario
 
 - Libro de trabajo
   - CRUD hojas
     - Agrupar hojas
     - Vista preliminar
-  - Vínculos entre hojas
+  - Vínculos
     - Referencias externas
-    - Vínculos a celdas de otras hojas
-    - Vínculo vs Ctrl+C / Ctrl+V
+      - Entre hojas
+        - Vínculos a celdas de otras hojas
+        - Vínculo vs Ctrl+C / Ctrl+V
+      - Objetos
     - Actualización automática
+  - El área de trabajo
+    - Sincronización de vistas
 - Gestión de datos
-  -  
+  - CRUD de datos
+  - Vista de datos
+  - Validación de datos
 - Funciones
 - Formulas y autorellenos
 - Formato condicional
-- Cálculo y validación de datos
 - Gráficos
 - Tablas dinámicas
