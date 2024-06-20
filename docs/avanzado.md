@@ -8,4 +8,6 @@
   - Automatizar procesos y datos
   - Herramientas para análisis
 - Macros
-- Uso de macros
+  - [Macros de batalla](automatizacion/macrosDeBatalla.md)
+  - Macros de fórmula
+  - Macros avanzados
