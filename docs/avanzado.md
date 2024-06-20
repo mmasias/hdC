@@ -1,9 +1,11 @@
 # Avanzado
 
+- Uso de plantillas
+  - Las plantillas del Excel: cómo hacen lo que hacen.
 - Gráficos dinámicos
-- Automatizar procesos y datos
-- Herramientas para análisis
-- Acceso a bases de datos
+- Bases de datos
+  - Acceso a bases de datos
+  - Automatizar procesos y datos
+  - Herramientas para análisis
 - Macros
 - Uso de macros
-- Uso de plantillas
