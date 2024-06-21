@@ -43,6 +43,8 @@ A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándo
 
 </div>
 
+[Intermedio](/docs/intermedio.md) | [Avanzado](/docs/avanzado.md)
+
 ## Carpetas de documentos
 
 - [![](https://img.shields.io/badge/-Microsoft_Excel-FFF?style=flat&logo=microsoftexcel&logoColor=black)](https://1drv.ms/f/s!AnIJHRHgFpG-lkytF3Qq4lMkKsqD?e=h6aQ7Y) 
