@@ -6,8 +6,7 @@
 
 - Complemento Inquire
 
-- Herramientas para análisis
-- Automatizar procesos y datos  
+- [Análisis & automatización](analisis/unCaso.md)
   - La importancia de la semántica, parte I: crear tabla vs hacer una tabla.
   - La importancia de la semántica, parte II: fórmula clásica vs fórmula tabla.
   - Fórmula intra-hojas: pros & cons
