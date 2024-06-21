@@ -3,6 +3,7 @@
 - Repaso
 
 - Uso de plantillas
+  - Las plantillas del Excel: mirar cómo hacen lo que hacen.
 
 - Complemento Inquire
 
@@ -13,14 +14,14 @@
   - leDashboard.com / Un gráfico
   - Conexión de tablas intra-hojas: prox & cons. Casos y cosas que pasan cuando abres y cierras hojas.
 
-- Las plantillas del Excel: cómo hacen lo que hacen.
-- Gráficos dinámicos
-- Bases de datos
-
+- [Análisis & automatización](analisis/otroCaso.md)
+  - PowerBI@Excel
+  - Bases de datos
+  - Gráficos dinámicos
+  
 - Macros
   - [Macros de batalla](automatizacion/macrosDeBatalla.md)
   - [Macros de fórmula](automatizacion/macrosDeFormula.md)
   - [Macros avanzados](automatizacion/macrosAvanzados.md)
-
 
 PS: Odio OneDrive 😤😡🤬🤬🤬🤬
