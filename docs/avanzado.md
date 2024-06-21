@@ -11,8 +11,8 @@
   - La importancia de la semántica, parte I: crear tabla vs hacer una tabla.
   - La importancia de la semántica, parte II: fórmula clásica vs fórmula tabla.
   - Fórmula intra-hojas: pros & cons
-  - Conexión de tablas intra-hojas: prox & cons
   - leDashboard.com / Un gráfico
+  - Conexión de tablas intra-hojas: prox & cons. Casos y cosas que pasan cuando abres y cierras hojas.
 
 - Las plantillas del Excel: cómo hacen lo que hacen.
 - Gráficos dinámicos
