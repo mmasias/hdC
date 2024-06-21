@@ -1,7 +1,7 @@
 # Itinerario avanzado
 
 - Repaso
-
+  - Puntos significativos del [itinerario intermedio](intermedio.md)
 - Uso de plantillas
   - Las plantillas del Excel: mirar cómo hacen lo que hacen.
 

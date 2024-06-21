@@ -17,6 +17,7 @@
   - CRUD de datos
   - Vista de datos
   - Validación de datos
+  - [Auditoría de datos](/docs/hoja/inquire.md)
 - Funciones
 - Formulas y autorellenos
 - Formato condicional
