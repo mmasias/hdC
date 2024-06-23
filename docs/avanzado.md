@@ -2,8 +2,6 @@
 
 - Repaso
   - Puntos significativos del [itinerario intermedio](intermedio.md)
-- Uso de plantillas
-  - Las plantillas del Excel: mirar cómo hacen lo que hacen.
 
 - Complemento Inquire
 
@@ -23,5 +21,8 @@
   - [Macros de batalla](automatizacion/macrosDeBatalla.md)
   - [Macros de fórmula](automatizacion/macrosDeFormula.md)
   - [Macros avanzados](automatizacion/macrosAvanzados.md)
+
+- Uso de plantillas
+  - Las plantillas del Excel: mirar cómo hacen lo que hacen.
 
 PS: Odio OneDrive 😤😡🤬🤬🤬🤬
