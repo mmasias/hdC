@@ -2,7 +2,7 @@
 
 ## Sesión 1
 
-- [Repaso](avanzado/repaso.md) de puntos significativos del [itinerario intermedio](intermedio.md)
+- [Repaso](avanzado/repaso.md) y extensión de puntos significativos del [itinerario intermedio](intermedio.md)
   - Celdas.
   - Fórmulas.
     - Ver fórmulas.
