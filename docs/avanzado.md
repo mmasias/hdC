@@ -1,5 +1,7 @@
 # Itinerario avanzado
 
+## Sesión 1
+
 - [Repaso](avanzado/repaso.md) de puntos significativos del [itinerario intermedio](intermedio.md)
 
 - Análisis & automatización [CdU](analisis/unCaso.md) / [CdU++](analisis/otroCaso.md)
@@ -9,6 +11,8 @@
   - leDashboard.com / Un gráfico
   - Conexión de tablas intra-hojas: prox & cons. Casos y cosas que pasan cuando abres y cierras hojas.
   - Llenar tablas que no son tablas vs llenar tablas que lo son: pros & cons
+
+## Sesión 2
 
 - [Análisis & automatización](analisis/otroCaso.md)
   - PowerBI@Excel
