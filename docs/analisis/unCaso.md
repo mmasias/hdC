@@ -1,1 +1,3 @@
-![](/images/Automatizacion.png)
+|||
+|-|-|
+|![](/images/Automatizacion.png)

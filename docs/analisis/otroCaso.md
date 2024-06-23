@@ -1,0 +1,1 @@
+![](/images/Automatizacion002.png)

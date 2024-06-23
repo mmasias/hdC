@@ -1,16 +1,14 @@
 # Itinerario avanzado
 
-- Repaso
-  - Puntos significativos del [itinerario intermedio](intermedio.md)
+- [Repaso](avanzado/repaso.md) de puntos significativos del [itinerario intermedio](intermedio.md)
 
-- Complemento Inquire
-
-- [Análisis & automatización](analisis/unCaso.md)
+- Análisis & automatización [CdU](analisis/unCaso.md) / [CdU++](analisis/otroCaso.md)
   - La importancia de la semántica, parte I: crear tabla vs hacer una tabla.
   - La importancia de la semántica, parte II: fórmula clásica vs fórmula tabla.
   - Fórmula intra-hojas: pros & cons
   - leDashboard.com / Un gráfico
   - Conexión de tablas intra-hojas: prox & cons. Casos y cosas que pasan cuando abres y cierras hojas.
+  - Llenar tablas que no son tablas vs llenar tablas que lo son: pros & cons
 
 - [Análisis & automatización](analisis/otroCaso.md)
   - PowerBI@Excel
