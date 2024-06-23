@@ -3,7 +3,7 @@
 - Libro de trabajo
   - CRUD hojas
     - Agrupar hojas
-    - Vista preliminar
+    - Vistas: vista preliminar, vista de fórmulas
   - Vínculos
     - Referencias externas
       - Entre hojas
