@@ -26,5 +26,5 @@
 
 ## Reto 31 días
 
-- 28 jun - [Vista de una celda (cuando los números no son números)](https://1drv.ms/x/s!AnIJHRHgFpG-pAkMUd4GVQGgKJtV?e=Rt6kbS&nav=MTVfezMwNThCQUI3LUY2OUEtNDRFNy05Rjc2LTYxOTZCOUFFQThDRn0)
 - 1 jul - [Formas de gestionar una secuencia (*un vector vertical*)](https://1drv.ms/x/s!AnIJHRHgFpG-pA78BUWW8czZkTcv?e=8g62pS&nav=MTVfe0NGMTQwQUJELUIyRjQtNDhGQS04RjQxLTAxREEzMDVBRUFBQ30)
+- 28 jun - [Vista de una celda (cuando los números no son números)](https://1drv.ms/x/s!AnIJHRHgFpG-pAkMUd4GVQGgKJtV?e=Rt6kbS&nav=MTVfezMwNThCQUI3LUY2OUEtNDRFNy05Rjc2LTYxOTZCOUFFQThDRn0)
