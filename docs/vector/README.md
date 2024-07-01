@@ -31,3 +31,5 @@
 - Aplicación de formatos condicionales específicos al vector para análisis visual.
 
 ### *CdU*
+
+- [Formas de gestionar una secuencia (un vector vertical)](https://1drv.ms/x/s!AnIJHRHgFpG-pA78BUWW8czZkTcv?e=8g62pS&nav=MTVfe0NGMTQwQUJELUIyRjQtNDhGQS04RjQxLTAxREEzMDVBRUFBQ30)
