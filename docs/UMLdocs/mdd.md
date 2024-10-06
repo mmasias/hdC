@@ -31,11 +31,20 @@
 
 </div>
 
-### Formula
+### Fórmula
 
 <div align=center>
 
 |![](/images/docs/UMLdocs/mdd-dE-Formula.svg)
+|-
+
+</div>
+
+### Hoja
+
+<div align=center>
+
+|![](/images/docs/UMLdocs/mdd-dE-Hoja.svg)
 |-
 
 </div>

@@ -1,0 +1,26 @@
+@startuml
+
+[*] --> Activa : Crear hoja
+
+Inactiva ---> Activa : Seleccionar hoja
+Activa ---> Inactiva : Seleccionar otra hoja
+
+Activa ---> Protegida : Proteger hoja
+Protegida ---> Activa : Desproteger hoja
+
+Inactiva ---> Protegida : Proteger hoja
+Protegida ---> Inactiva : Desproteger hoja
+
+Activa ---> Oculta : Ocultar hoja
+Inactiva ---> Oculta : Ocultar hoja
+Protegida ---> Oculta : Ocultar hoja
+
+Oculta ---> Inactiva : Mostrar hoja
+Oculta ---> Activa : Mostrar y activar hoja
+
+Activa ---> [*] : Eliminar hoja
+Inactiva ---> [*] : Eliminar hoja
+Protegida ---> [*] : Eliminar hoja
+Oculta ---> [*] : Eliminar hoja
+
+@enduml
