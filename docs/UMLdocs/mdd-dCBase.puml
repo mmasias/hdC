@@ -1,0 +1,17 @@
+@startuml
+
+hide empty members
+hide circle
+
+LibroDeTrabajo o-- HojaDeTrabajo
+HojaDeTrabajo o-- Celda
+HojaDeTrabajo o-- Rango
+Celda --> Fórmula
+Celda --> Comentario
+Celda --> Formato
+Celda --> ValidaciónDatos
+Fórmula -->  Celda 
+Rango o--  Celda
+ObjetoGráfico -->  Celda 
+
+@enduml

@@ -1,0 +1,50 @@
+@startuml
+
+object "libro: LibroDeTrabajo" as libro1
+
+object "hoja: HojaDeTrabajo" as hoja1
+hoja1 : nombre = "Hoja1"
+
+object "celdaA1: Celda" as celdaA1
+celdaA1 : posición = "A1"
+celdaA1 : contenido = "5"
+celdaA1 : estado = ConDatos
+
+object "celdaA2: Celda" as celdaA2
+celdaA2 : posición = "A2"
+celdaA2 : contenido = "10"
+celdaA2 : estado = ConDatos
+
+object "celdaA3: Celda" as celdaA3
+celdaA3 : posición = "A3"
+celdaA3 : contenido = "=SUMA(A1:A2)"
+celdaA3 : fórmula = formulaSuma
+celdaA3 : estado = ConFórmula
+
+object "formulaSuma: Fórmula" as formulaSuma
+formulaSuma : expresión = "=SUMA(A1:A2)"
+formulaSuma : rangoReferenciado = rangoSuma
+
+object "rangoSuma: Rango" as rangoSuma
+rangoSuma : nombre = "A1:A2"
+rangoSuma : tipoRango = General
+
+object "rangoColumnaA: Rango" as rangoColumnaA
+rangoColumnaA : nombre = "Columna A"
+rangoColumnaA : tipoRango = Columna
+
+libro1 -- hoja1 : hojas
+hoja1 -- celdaA1 : celdas
+hoja1 -- celdaA2 : celdas
+hoja1 -- celdaA3 : celdas
+hoja1 -- rangoSuma : rangos
+hoja1 -- rangoColumnaA : rangos
+celdaA3 -- formulaSuma : fórmula
+formulaSuma -- rangoSuma : rangoReferenciado
+rangoSuma -- celdaA1 : celdas
+rangoSuma -- celdaA2 : celdas
+rangoColumnaA -- celdaA1 : celdas
+rangoColumnaA -- celdaA2 : celdas
+rangoColumnaA -- celdaA3 : celdas
+
+@enduml

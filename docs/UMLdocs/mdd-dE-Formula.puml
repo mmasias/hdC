@@ -1,0 +1,18 @@
+@startuml
+[*] --> Inactiva
+
+Inactiva --> EnEvaluación : Iniciar evaluación
+EnEvaluación --> EvaluadaCorrectamente : Completar evaluación
+EnEvaluación --> ErrorDeCálculo : Generar error de cálculo
+EnEvaluación --> DependenciaCircularDetectada : Detectar dependencia circular
+
+ErrorDeCálculo --> EnEvaluación : Modificar fórmula o datos
+DependenciaCircularDetectada --> EnEvaluación : Corregir dependencia
+EvaluadaCorrectamente --> EnEvaluación : Modificar datos
+
+EvaluadaCorrectamente --> [*] : Eliminar fórmula
+ErrorDeCálculo --> [*] : Eliminar fórmula
+DependenciaCircularDetectada --> [*] : Eliminar fórmula
+Inactiva --> [*] : Eliminar fórmula
+
+@enduml

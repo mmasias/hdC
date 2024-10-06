@@ -1,0 +1,17 @@
+@startuml
+[*] --> Vacía
+
+Vacía --> ConDatos : Ingresar datos
+Vacía --> ConFórmula : Ingresar fórmula
+
+ConDatos --> Vacía : Borrar contenido
+ConDatos --> ConFórmula : Ingresar fórmula
+
+ConFórmula --> Vacía : Borrar contenido
+ConFórmula --> ConError : Error en cálculo
+ConFórmula --> ConDatos : Convertir en valor
+
+ConError --> Vacía : Borrar contenido
+ConError --> ConFórmula : Corregir fórmula
+
+@enduml

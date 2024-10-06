@@ -1,0 +1,80 @@
+@startuml
+
+hide empty members
+hide circle
+
+class LibroDeTrabajo {
+    hojas : HojaDeTrabajo[0..*]
+}
+
+class HojaDeTrabajo {
+    nombre
+    celdas : Celda[0..*]
+    rangos : Rango[0..*]
+}
+
+class Celda {
+    posición
+    contenido
+    formato : Formato
+    fórmula : Fórmula
+    comentario : Comentario
+    estado : EstadoCelda
+}
+
+enum EstadoCelda {
+    Vacía
+    ConDatos
+    ConFórmula
+    ConError
+}
+
+class Fórmula {
+    expresión
+    celdasReferenciadas : Celda[0..*]
+}
+
+class Rango {
+    nombre
+    tipoRango : TipoRango
+    celdas : Celda[1..*]
+}
+
+enum TipoRango {
+    General
+    Fila
+    Columna
+}
+
+class Formato {
+    propiedadesVisuales
+}
+
+class Comentario {
+    autor
+    texto
+    fechaCreación
+}
+
+class ObjetoGráfico {
+    tipo
+    datosAsociados : Celda[0..*]
+}
+
+class ValidaciónDatos {
+    tipoValidación
+    criterios
+}
+
+LibroDeTrabajo o-- HojaDeTrabajo
+HojaDeTrabajo o-- Celda
+HojaDeTrabajo o-- Rango
+Celda --> Fórmula
+Celda --> Comentario
+Celda --> Formato
+Celda --> ValidaciónDatos
+Fórmula -->  Celda 
+Rango o--  Celda
+ObjetoGráfico -->  Celda 
+
+@enduml
