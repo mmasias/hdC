@@ -17,8 +17,8 @@ A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándo
 <div align=center>
 
 <table border=0>
-    <tr>
-        <td valign=top>
+<tr>
+<td valign=top>
         
 - [La celda](docs/celda/README.md)
 - [El rango](docs/rango/README.md)
@@ -33,12 +33,19 @@ A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándo
 - [El análisis](/docs/analisis/README.md)
 - [La automatización](/docs/automatizacion/README.md)
 - [El exterior](docs/elExterior/README.md)
-        </td>
-        <td>
+</td>
+<td>
 
 ![](/images/modelosUML/docs/UMLdocs/esquema000.svg)
-        </td>
-    </tr>
+</td>
+</tr>
+<tr>
+<td>
+
+[CADIA](docs/cadia/README.md)
+</td>
+<td></td>
+</tr>
 </table>
 
 </div>
