@@ -42,7 +42,7 @@ A menudo aprendemos a usar las hojas de cálculo de manera empírica, enfocándo
 <tr>
 <td>
 
-[CADIA](docs/cadia/README.md)
+[GUIA](docs/guia/README.md)
 </td>
 <td></td>
 </tr>
